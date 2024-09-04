@@ -1,6 +1,7 @@
 # Educational Chatbot
 
 This project is an educational chatbot that provides topic-specific information to users. It uses Next.js for the frontend and backend, and integrates with OpenAI's GPT-3.5 model to generate responses.
+Ref! royam/users/chatbot-education-v1
 
 ## Features
 
